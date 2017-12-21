@@ -1,0 +1,4 @@
+// long running function
+function waitThreeSeconds() {
+var ms = 3000 + new Date().getTime();
+}
