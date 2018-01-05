@@ -1,3 +1,11 @@
+/* Function takes in an 2D array, finds the sum for each hourglass and returns the max value
+
+    a b c
+      d
+    e f g
+
+*/
+
 function main() {
     var arr = [];
     for(arr_i = 0; arr_i < 6; arr_i++){
